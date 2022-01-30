@@ -30,7 +30,6 @@ flutter:
    - assets/
 
 flutter_icons:
-  image_path: "icon/icon.png" 
   android: true
   ios: true
 
